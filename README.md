@@ -1,1 +1,1 @@
-# Python of Perceptron
+# Python of Perceptron(iris data)
